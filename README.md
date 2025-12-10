@@ -2,7 +2,7 @@
 
 This repository contains all the code used to produce the results presented in the final report for the Social Graphs course project.
 
-It includes the executed and fully annotated Jupyter notebook (Notebook.ipynb), which documents the analysis process and findings.
+It includes the executed and fully annotated Jupyter notebook (Project01.ipynb), which documents the analysis process and findings.
 
 The datasets were too large to upload directly to this repository, so they are provided through the following links:
 
